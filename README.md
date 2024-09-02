@@ -17,16 +17,7 @@ Make sure to set up your Flutter environment by following the official [Flutter 
 
 ## Getting Started
 
-### 1. Clone the Repository
-
-Clone the IntelliFridge project repository from Git:
-
-\`\`\`bash
-git clone https://your-repository-url.git
-cd intlifridge
-\`\`\`
-
-### 2. Install Dependencies
+### 1. Install Dependencies
 
 Run the following command to install the necessary dependencies:
 
@@ -34,7 +25,7 @@ Run the following command to install the necessary dependencies:
 flutter pub get
 \`\`\`
 
-### 3. Running on Chrome (Web)
+### 2. Running on Chrome (Web)
 
 To run the project on Chrome, use the following command:
 
@@ -44,7 +35,7 @@ flutter run -d chrome
 
 This will launch the IntelliFridge app in your default Chrome browser.
 
-### 4. Running on iOS
+### 3. Running on iOS
 
 **Note:** You need a macOS system with Xcode installed to run the project on iOS.
 
@@ -57,7 +48,7 @@ flutter run -d ios
 
 This will build and launch the IntelliFridge app on your connected iOS device or simulator.
 
-### 5. Running on Android
+### 4. Running on Android
 
 1. Connect your Android device or use an Android emulator.
 2. Run the following command:
