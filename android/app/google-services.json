@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442338865995",
+    "project_id": "intelifridge",
+    "storage_bucket": "intelifridge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442338865995:android:ec3c69429205479bfa6ece",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-aZsGXleRe9_B8OF-7Siqa1kLS0grKDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
